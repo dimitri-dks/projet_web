@@ -17,7 +17,8 @@
      
     <?php 
       require_once('menu.html');
-     ?>    <div class="centre">
+     ?>    
+    <div class="centre">
     <embed src=https://lewebpedagogique.com/alivresouverts/files/2013/09/commentfairedesfichespourrevisersescours.pdf width=800 height=600 type='application/pdf'/>
     </div>
 
